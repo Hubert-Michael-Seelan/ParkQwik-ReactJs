@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <div>
       <Rectangle />
-      <BoxWithIconsAndText />
+      {/* <BoxWithIconsAndText /> */}
       <FastTagBox />
       <AddMoneyBanner />
       <OthersCard />

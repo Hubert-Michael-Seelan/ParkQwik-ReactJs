@@ -13,8 +13,8 @@ const BoxWithIconsAndText = () => {
 
   const boxStyle = {
     marginLeft: '15px',
+    marginTop:'40px',
     width: '328px',
-    // position: 'absolute',
     height: '229px',
     backgroundColor: '#FFFFFF', // Example background color
     padding: '15px',

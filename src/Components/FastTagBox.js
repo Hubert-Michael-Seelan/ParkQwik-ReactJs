@@ -17,7 +17,7 @@ const FastTagBox = () => {
   };
 
   const boxStyle = {
-    marginTop: "15px",
+    marginTop: "80px",
     marginLeft: "15px",
     width: "328px",
     position: "relative",
