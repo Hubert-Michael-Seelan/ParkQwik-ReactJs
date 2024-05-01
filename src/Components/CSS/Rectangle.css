@@ -1,0 +1,112 @@
+@media (max-width: 500px) {
+  .rec-1{
+    width: 360px;
+    height: 252px;
+  }
+  .rec {
+    width: 360px;
+    height: 252.53px;
+    margin: 0;
+    background-color: rgba(26, 158, 117, 1);
+    border-radius: 0 0 50% 50%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+  .rec button {
+    width: 159px;
+    height: 32px;
+    margin-top: 72px;
+    margin-left: 84px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    border-radius: 20px;
+    /* text-align: center; */
+    color: rgba(26, 158, 117, 1);
+    background: rgba(240, 255, 250, 1);
+    border: 0;
+  }
+  .cir {
+    width: 37px;
+    height: 32px;
+    position: absolute;
+    margin-top: 72px;
+    margin-left: 250px;
+    gap: 0px;
+    border-radius: 50%;
+    color: rgba(255, 255, 255, 1);
+    background: rgba(95,187,158,255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .cir-1 {
+    width: 37px;
+    height: 32px;
+    position: absolute;
+    margin-top: 72px;
+    margin-left: 290px;
+    gap: 0px;
+    border-radius: 50%;
+    color: rgba(255, 255, 255, 1);
+    background: rgba(95,187,158,255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .p-cir {
+    width: 51px;
+    height: 51px;
+    margin-top: 62px;
+    margin-left: 13px;
+    border-radius: 50%;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(217, 217, 217, 1);
+    position: absolute;
+  }
+  .p-cir img {
+    height: 51px;
+    width: 51px;
+    border-radius: 50%;
+  }
+  .box {
+    margin-right: 5px;
+  }
+  .card{
+    position: relative;
+    font-size: 10px;
+  } 
+  .powered-by {
+    display: flex;
+    align-items: center;
+  }
+  .powered-by p {
+    margin-right: 10px; /* Adjust spacing between text and logo */
+  }
+}
+.containerStyle{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  .inputStyle{
+    width: 201px;
+    height: 40px;
+    border-radius: 8px;
+    margin-right: 10px;
+    border: 1px solid #1A9E75;
+    padding: 0 10px;
+    background-color: #F0FFFA;
+  }
+  .buttonStyle{
+    width: 80px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #1A9E75;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
