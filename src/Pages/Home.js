@@ -1,5 +1,4 @@
 import React from 'react';
-import BoxWithIconsAndText from "../Components/BoxWithIconsAndText";
 import FastTagBox from "../Components/FastTagBox";
 import Rectangle from "../Components/Rectangle";
 import AddMoneyBanner from '../Components/AddMoneyBanner';
@@ -11,7 +10,6 @@ const Home = () => {
   return (
     <div>
       <Rectangle />
-      {/* <BoxWithIconsAndText /> */}
       <FastTagBox />
       <AddMoneyBanner />
       <OthersCard />
